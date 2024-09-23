@@ -1,0 +1,15 @@
+# Exclude the data folder
+data/
+
+# Exclude environment folders
+env/
+
+# Exclude compiled Python files and cache
+*.pyc
+__pycache__/
+
+# Exclude macOS specific files
+.DS_Store
+
+# Exclude the embeddings folder
+embeddings/
