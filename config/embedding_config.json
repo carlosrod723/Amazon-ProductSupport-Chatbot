@@ -1,0 +1,10 @@
+{
+    "model_name": "all-MiniLM-L6-v2",
+    "batch_size": 32,
+    "max_seq_length": 128,
+    "use_gpu": true,
+    "embedding_dim": 384,
+    "save_dir": "embeddings",
+    "checkpoint_interval": 10000,
+    "input_column": "embedding_text"
+}

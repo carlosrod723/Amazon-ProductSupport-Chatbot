@@ -1,0 +1,12 @@
+{
+    "index_type": "IVF_HNSW",
+    "nlist": 100,
+    "M": 32,
+    "efConstruction": 40,
+    "nprobe": 10,
+    "m_per_core": 2,
+    "use_gpu": true,
+    "pq_m": 8,
+    "hnsw_ef": 128,
+    "metric": "L2"
+}

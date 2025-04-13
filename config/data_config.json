@@ -1,0 +1,6 @@
+{
+    "data_path": "data/amazon_products.csv",
+    "cache_enabled": true,
+    "cache_ttl": 3600,
+    "chunk_size": null
+}
