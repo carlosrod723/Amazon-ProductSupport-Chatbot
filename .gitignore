@@ -13,3 +13,6 @@ __pycache__/
 
 # Exclude the embeddings folder
 embeddings/
+
+# Virutal environment
+venv/
